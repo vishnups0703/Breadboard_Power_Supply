@@ -12,7 +12,7 @@ A compact, plug-and-play power supply module designed to mount directly onto a s
 ## Regualtors Used
 * 5V Regualator-LM7805_TO220
 * 3V Regualator-LM317_TO-220
-![Schematic Screenshot](docs/images/schematic.png)
+![Schematic Screenshot](Github_Images/schematic_Pro1.png)
 
 
 
