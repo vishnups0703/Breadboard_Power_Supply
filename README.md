@@ -16,4 +16,4 @@ A compact, plug-and-play power supply module designed to mount directly onto a s
 
 
 
-![PCB Layout 2D View](docs/images/layout.png)
+![PCB Layout 2D View](Layout_Pro1.png)
