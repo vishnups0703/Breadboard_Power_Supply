@@ -1,6 +1,6 @@
 # Breadboard Power Supply
 
-![PCB 3D Render or Physical Photo](docs/images/3d-render.png)
+![PCB 3D Render or Physical Photo](Github_Images/3D_Pro1.png)
 
 A compact, plug-and-play power supply module designed to mount directly onto a standard MB102 breadboard(160mm x 55mm x 10mm). It regulates an external DC input down to clean, dual-rail voltages to power prototyping circuits safely.
 
